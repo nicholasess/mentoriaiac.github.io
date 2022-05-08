@@ -68,4 +68,4 @@ No DoD você coloca uma lista de entregáveis, que você imagina que o ticket n�
 
 **Obs**: No momento da criação do ticket é muito difícil fazer o DoD, ainda mais se você não tiver experiência do que precisa realmente ser feito pra corrigir. O DoD pode ser feito depois em conjunto com outras pessoas.
 
-Ao terminar de preencher a descrição, você pode clicar no botão "Submit new issue" e pronto. Sua issue estará pronta. Confira se sua issue aparece no [board de observabilidade ou outro projeto que esteja relacioado](https://github.com/orgs/mentoriaiac/projects).
+Ao terminar de preencher a descrição, você pode clicar no botão "Submit new issue" e pronto. Sua issue estará pronta. Confira se sua issue aparece no [board de observabilidade ou outro projeto que esteja relacionado](https://github.com/orgs/mentoriaiac/projects).
